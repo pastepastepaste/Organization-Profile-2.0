@@ -1,0 +1,23 @@
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\bin\Debug\net6.0-windows\Organization Profile.exe
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\bin\Debug\net6.0-windows\Organization Profile.deps.json
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\bin\Debug\net6.0-windows\Organization Profile.runtimeconfig.json
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\bin\Debug\net6.0-windows\Organization Profile.dll
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\bin\Debug\net6.0-windows\Organization Profile.pdb
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\Organization Profile.csproj.AssemblyReference.cache
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\Organization Profile.csproj.GenerateResource.cache
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\Organization Profile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\Organization Profile.AssemblyInfoInputs.cache
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\Organization Profile.AssemblyInfo.cs
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\Organization Profile.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\Organization Profile.dll
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\refint\Organization Profile.dll
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\Organization Profile.pdb
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\Organization Profile.genruntimeconfig.cache
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\ref\Organization Profile.dll
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\Organization_Profile.frmRegistration.resources
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\Organization_Profile.frmConfirmation.resources
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\Organization_Profile.Properties.Resources.resources
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\bin\Debug\net6.0-windows\MetroFramework.Design.dll
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\bin\Debug\net6.0-windows\MetroFramework.dll
+C:\Users\Ann\Documents\Codes\Organization Profile\Organization Profile\obj\Debug\net6.0-windows\Organization Profile.csproj.CopyComplete
